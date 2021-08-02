@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @camdog-peerz
+- 👀 I’m interested in DeFi
+- 🌱 I’m currently building a decentralized recruiting platform for the DeFi industry
+- 💞️ I’m looking to collaborate on Peerz protocol
+- 📫 How to reach me crichon@peerzlabs.org
